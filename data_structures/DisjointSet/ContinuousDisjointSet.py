@@ -1,4 +1,4 @@
-from typing import Sequence, List
+from typing import List
 
 
 class ContinuousDisjointSet:
