@@ -1,6 +1,7 @@
 from typing import List
 from collections import defaultdict
 
+
 class ContinuousDisjointSet:
     def __init__(self, data_list: List):
         # 初始化两个字典，分别保存节点的父节点（并查集）和保存父节点的大小
